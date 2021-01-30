@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\GameProjectExample\obj\Debug\netcoreapp3.1\GameProjectExample.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GameProjectExample\obj\Debug\netcoreapp3.1\GameProjectExample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GameProjectExample\obj\Debug\netcoreapp3.1\GameProjectExample.AssemblyInfo.cs
+C:\Users\user\source\repos\GameProjectExample\obj\Debug\netcoreapp3.1\GameProjectExample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GameProjectExample\bin\Debug\netcoreapp3.1\GameProjectExample.exe
+C:\Users\user\source\repos\GameProjectExample\bin\Debug\netcoreapp3.1\GameProjectExample.deps.json
+C:\Users\user\source\repos\GameProjectExample\bin\Debug\netcoreapp3.1\GameProjectExample.runtimeconfig.json
+C:\Users\user\source\repos\GameProjectExample\bin\Debug\netcoreapp3.1\GameProjectExample.runtimeconfig.dev.json
+C:\Users\user\source\repos\GameProjectExample\bin\Debug\netcoreapp3.1\GameProjectExample.dll
+C:\Users\user\source\repos\GameProjectExample\bin\Debug\netcoreapp3.1\GameProjectExample.pdb
+C:\Users\user\source\repos\GameProjectExample\obj\Debug\netcoreapp3.1\GameProjectExample.dll
+C:\Users\user\source\repos\GameProjectExample\obj\Debug\netcoreapp3.1\GameProjectExample.pdb
+C:\Users\user\source\repos\GameProjectExample\obj\Debug\netcoreapp3.1\GameProjectExample.genruntimeconfig.cache
